@@ -1,8 +1,6 @@
 # Kim_ABN
 
-# ABN (Data for adult-born neuron recording)
-
-All are provided as 349 cells (rows) by 8 columns (sessions)
+All are provided as the number of cells (rows) by the number of columns (sessions)
 active_session: 0 - no place fields in session 
                 1 - place fields in session
 
